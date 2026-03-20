@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MNSGAMERZ.aternos.me:49635",
-    "port": 49635,
+    "ip": " 849039",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Subscribe to NOT_MNS!",
+        "Subscribe to Uwlf!",
       ]
     },
     "chat-log": true,
